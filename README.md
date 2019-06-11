@@ -19,14 +19,13 @@ For other data-analysis related topics please take a look at the [dataViz_CADi](
 
 <img src="./md/media/flow.jpg" width="100%" height=7.5px>
 
-## Contents
+## Contents :) :)  :)
 
 This workshop was created with flexibility in mind. As such, modules are fairly independent and can be followed in a different order than the one suggested here. For a topic-oriented breakdown of the contents, please have a look at the [sitemap](./md/sitemap.md).
 
 
 
 ### Day 01 (8h)
-
 1. [Introduction](./md/introduction.md): Objectives, scope, requirements and expectations.
 1. [Python 101](./md/python.md): Introduction to the programming language: [description](./md/python.md), [core types](./md/python101.md), [collections (data structures)](./md/python101b.md) and [functions](./md/python101c.md).
 1. [Python Environments](./md/environments.md): Using [anaconda](./md/anaconda.md) and [virtualenv](./md/virtualenv.md) for development.
